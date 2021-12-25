@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oddson/static/css/main.073c9b0a.css",
+    "main.js": "/oddson/static/js/main.7190e433.js",
+    "static/js/787.3fa4cde8.chunk.js": "/oddson/static/js/787.3fa4cde8.chunk.js",
+    "static/media/logo.svg": "/oddson/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/oddson/index.html",
+    "main.073c9b0a.css.map": "/oddson/static/css/main.073c9b0a.css.map",
+    "main.7190e433.js.map": "/oddson/static/js/main.7190e433.js.map",
+    "787.3fa4cde8.chunk.js.map": "/oddson/static/js/787.3fa4cde8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7190e433.js"
+  ]
+}
